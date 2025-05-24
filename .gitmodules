@@ -4,3 +4,6 @@
 [submodule "post-service"]
 	path = post-service
 	url = git@github.com:ilhnmstf/post_service.git
+[submodule "infra"]
+	path = infra
+	url = git@github.com:ilhnmstf/infra.git
