@@ -1,0 +1,6 @@
+[submodule "user-service"]
+	path = user-service
+	url = git@github.com:ilhnmstf/user_service.git
+[submodule "post-service"]
+	path = post-service
+	url = git@github.com:ilhnmstf/post_service.git
